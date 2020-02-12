@@ -1,7 +1,7 @@
 # Descripción General del Proyecto: 
-Calculador de Sistemas de Ecuaciones n dimensional que se basa en el método de la matriz inversa, la cual consiste en multiplicar la matriz inversa de coeficienes con la matriz de términos independientes. como se muestra en la siguente formula
+Calculador de Sistemas de Ecuaciones n dimensional que se basa en el método de la matriz inversa, la cual consiste en multiplicar la matriz inversa de coeficienes con la matriz de términos independientes. Como se muestra en la siguente formula:
 
-M_X=M_I 〖M_C〗^(-1)
+MX = MI (MC)^(-1)
 
 Donde:
 
