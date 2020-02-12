@@ -29,14 +29,16 @@ x - 8y + 3z = -17
 
 1.- Determine la dimensión de la matriz ingresando las cantidades de filas y columnas de la matriz. 
 
-
+![Ejem](https://github.com/smajkil/Sistema-de-ecuaciones/blob/master/Ejem%20Img/img1.png)
 
 2.- Una vez definida la dimensión deberá ingresar los valores de la siguiente forma: 
 
-
+![Ejem](https://github.com/smajkil/Sistema-de-ecuaciones/blob/master/Ejem%20Img/img2.png)
 
 3.- Enseguida pedirá los valores de la matriz de términos independientes:
 
-
+![Ejem](https://github.com/smajkil/Sistema-de-ecuaciones/blob/master/Ejem%20Img/img3.png)
 
 4.- Por último, se muestran las Matrices ingresadas, el determinante y la inversa de la matriz de coeficientes asi como la matriz de resultados. 
+
+![Ejem](https://github.com/smajkil/Sistema-de-ecuaciones/blob/master/Ejem%20Img/img4.png)
