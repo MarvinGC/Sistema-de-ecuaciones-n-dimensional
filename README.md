@@ -12,12 +12,7 @@ MI   Matriz de terminaos independientes
 
 
 # Requisitos
-Se requiere al menos java en su version 8
-
-
-# Documentacion
-
-
+Se requiere [Java](https://www.java.com/en/download/) al menos en su version 8
 
 # Ejemplo
 
