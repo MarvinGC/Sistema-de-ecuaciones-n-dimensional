@@ -14,7 +14,7 @@ MI   Matriz de terminaos independientes
 # Requisitos
 Se requiere [Java](https://www.java.com/en/download/) al menos en su version 8
 
-# Ejemplo
+# Cómo usarlo
 
 Para ejemplificar utilizaremos el siguiente sistema de ecuaciones:
 
