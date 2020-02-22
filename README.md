@@ -1,5 +1,5 @@
 # Descripción: 
-Calculador de Sistemas de Ecuaciones n dimensional que se basa en el método de la matriz inversa, la cual consiste en multiplicar la matriz inversa de coeficienes con la matriz de términos independientes. Como se muestra en la siguente formula:
+Calculador de Sistemas de Ecuaciones de n dimensión que se basa en el método de la matriz inversa, la cual consiste en multiplicar la matriz inversa de coeficienes con la matriz de términos independientes. Como se muestra en la siguente formula:
 
 MX = MI (MC)^(-1)
 
