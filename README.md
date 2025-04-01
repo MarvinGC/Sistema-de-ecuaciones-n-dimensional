@@ -12,7 +12,7 @@ MI   Matriz de terminaos independientes
 
 
 # Requisitos
-Se requiere [Java JDk](https://www.oracle.com/java/technologies/downloads/))
+Se requiere [Java JDk](https://www.oracle.com/java/technologies/downloads/)
 
 # Cómo usarlo
 
